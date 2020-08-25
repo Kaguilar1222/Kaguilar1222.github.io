@@ -6,12 +6,14 @@ Experienced project manager and recent data science bootcamp graduate seeking a 
 ### Notable Projects
 
 <img  align="left" src="images/search.png?raw=true" width="40" height="40" />
-[NLP Techniques Authorship Identification and Topic Modeling](https://github.com/Kaguilar1222/CapstoneProject)
+[NLP Techniques: Authorship Identification and Topic Modeling](https://github.com/Kaguilar1222/CapstoneProject)
+- LSTM model for idenfication of Shakespearean plays from other Elizabethan-era plays
 
 ---
 
 <img  align="left" src="images/vision.png?raw=true" width="40" height="40" />
 [Identifying Pneumonia in Chest X-Rays with Neural Networks](https://github.com/Kaguilar1222/dsc-mod-4-project-v2-1-onl01-dtsc-ft-012120)
+- CNN model 
 
 ---
 <img  align="left" src="images/data-classification.png?raw=true" width="40" height="40" />
