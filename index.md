@@ -4,7 +4,7 @@
 
 ### Notable Projects
 
-<img src="images/search.png?raw=true"/>
+<img src="images/search.png?raw=true" width="50" height="50" />
 [NLP Techniques Authorship Identification and Topic Modeling](https://github.com/Kaguilar1222/CapstoneProject)
 
 ---
