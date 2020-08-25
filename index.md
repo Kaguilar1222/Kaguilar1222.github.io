@@ -4,15 +4,16 @@
 
 ### Notable Projects
 
-<img src="images/search.png?raw=true" width="50" height="50" />
+<img  align="left" src="images/search.png?raw=true" width="40" height="40" />
 [NLP Techniques Authorship Identification and Topic Modeling](https://github.com/Kaguilar1222/CapstoneProject)
 
 ---
-<img src="images/vision.png?raw=true"/>
+
+<img  align="left" src="images/vision.png?raw=true" width="40" height="40" />
 [Identifying Pneumonia in Chest X-Rays with Neural Networks](https://github.com/Kaguilar1222/dsc-mod-4-project-v2-1-onl01-dtsc-ft-012120)
 
 ---
-<img src="images/data-classification.png?raw=true"/>
+<img  align="left" src="images/data-classification.png?raw=true" width="40" height="40" />
 [Classifying Household Income in the Philippines](https://github.com/Kaguilar1222/dsc-mod-3-project-v2-1-onl01-dtsc-ft-012120)
 
 
