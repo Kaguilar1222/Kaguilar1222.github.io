@@ -1,4 +1,5 @@
 ## About Me
+Experienced project manager and recent data science bootcamp graduate seeking a role where I can use both my communications superpower and my technical skills. Looking to use data to solve problems and help you scale your business in a way that is agile, efficient and collaborative.
 
 ---
 
@@ -33,6 +34,6 @@
 
 
 ---
-<p style="font-size:11px"> Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px"> Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a>, <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> and <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>></p>
+<p style="font-size:10px"> Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:10px"> Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a>, <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> and <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
 <!-- Remove above link if you don't want to attibute -->
