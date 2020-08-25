@@ -1,7 +1,8 @@
 title: Kyle Lyndsey Aguilar # your name (or website title) here
-logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Recent data science bootcamp graduate and seasoned operations professional. 
+  <input type="text" value="Kyle.Lyndsey.Aguilar@gmail.com" id="myInput">
+  <button onclick="myFunction()">Copy text</button>
   <br><br>
   <a href="www.linkedin.com/in/kyle-lyndsey-aguilar/">View My LinkedIn Profile</a> 
   
